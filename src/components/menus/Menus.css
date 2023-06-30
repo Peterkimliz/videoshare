@@ -1,0 +1,22 @@
+.menus{
+    flex: 1 ;
+       height: 100vh;
+       background-color: #202020;
+       color: white;
+}
+.wrapper{
+    padding: 18px 26px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.items{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
